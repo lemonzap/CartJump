@@ -1,0 +1,5 @@
+main: me.lemonzap.CartJump.CartJump
+name: CartJump
+author: Lemonzap
+description: allows minecarts to jump!
+version: 1.0
